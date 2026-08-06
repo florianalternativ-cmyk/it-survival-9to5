@@ -1,3 +1,7 @@
+https://florianalternativ-cmyk.github.io/it-survival-9to5/
+
+
+
 # IT-SURVIVAL — Mobile Edition V4
 
 Ein vollständiges, statisches Mobile-Browsergame im Retro-Pixelstil. Keine Installation, kein Build-Schritt und keine externen Abhängigkeiten: `index.html` enthält das komplette Spiel.
