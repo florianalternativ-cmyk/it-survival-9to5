@@ -1,0 +1,15 @@
+IT-SURVIVAL MOBILE V4 — NEUES TEST-REPOSITORY
+
+1. Neues LEERES GitHub-Repository erstellen.
+2. Alle Dateien aus dem ZIP direkt in den Repository-Root hochladen.
+3. Settings > Pages > Source: GitHub Actions wählen.
+4. Workflow „Deploy IT-SURVIVAL to GitHub Pages“ abwarten.
+5. Test-URL öffnen.
+
+Alternative: Deploy from a branch > main > /(root).
+
+WICHTIG
+- index.html muss im Root liegen.
+- .github und .nojekyll mit hochladen.
+- Kein npm install und kein Build notwendig.
+- Cache-Test: ?v=mobile-v4 an die URL hängen.
