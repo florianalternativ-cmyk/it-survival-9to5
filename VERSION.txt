@@ -1,0 +1,7 @@
+IT-SURVIVAL Mobile Edition V4
+Build: mobile-v4-2026-08-06
+Target: separates GitHub-Pages-Test-Repository
+Distribution: selbstständige index.html
+Kaffee: 1 Punkt / 4 Sekunden, Dialogpause
+Ticket-Wartezeit: variabel 3–8 Sekunden
+Hardware: Drag-only mit Edge-Autoscroll
